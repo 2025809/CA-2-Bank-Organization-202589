@@ -10,4 +10,15 @@ package com.bankapp.app.bankapp;
  */
 public class ManagerType {
     
+    HEAD_MANAGER ("Head Manager"),
+    ASSISTANT_MANAGER("Assistant Manager"),
+    TEAM_LEAD("Team Lead"),
+    MANAGER("Manager"),
+    SENIOR_MANAGER("Senior Manager"),
+    JUNIOR("Junior"),
+    MIDDLE("Middle"),
+    SENIOR("Senior"),
+    CONTRACT("Contract"),
+    INTERN("Intern");
+    
 }
